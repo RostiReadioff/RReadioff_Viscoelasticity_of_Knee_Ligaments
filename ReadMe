@@ -1,1 +1,4 @@
 First version release of this can also be found here: https://zenodo.org/badge/latestdoi/296332885
+
+Second version release consists the following two MATLAB scripts:
+VE_Code_poly_incPrecond.m --> This script will call on csv files for each specimen and calculates, stress, strain, hysteresis, recovery. Then will fit a a polynomial curve to the data for illustrations. Fitting the polynomial function that will pass through zero, requires another function called polyfitZero.m
